@@ -1,0 +1,3 @@
+[submodule "coreMQTT"]
+	path = coreMQTT
+	url = git@github.com:FreeRTOS/coreMQTT.git
